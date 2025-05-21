@@ -29,3 +29,7 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+
+button.hover {
+  background-color: #061b51;
+}
