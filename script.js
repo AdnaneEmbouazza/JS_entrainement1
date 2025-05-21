@@ -16,11 +16,11 @@ function getComputerChoice() {
     return choice
 }
 
-function letPlayerChoice() {
+/*function letPlayerChoice() {
     let ChoiceUser = window.prompt("quel est ton choix ? (rock / paper / scissors)") 
     console.log("you chose the " + ChoiceUser)
     return ChoiceUser
-}
+}*/
 
 function Jeux() {
     while (scoreJoueur < 5 && scoreOrdi < 5){
